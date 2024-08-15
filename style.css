@@ -15,6 +15,9 @@ nav{
 .navItems{
     padding: 3%;
     opacity: .5;
+    text-decoration: none;
+    color: black;
+
 }
 
 .navItems:hover{
